@@ -47,4 +47,3 @@ marte %>%
 #■al menos el 25% de los dias marcianos comprendidos en el intervalo <1000,1500> ,
 #■tienen como registro una presion menor o igual a 777.5 Pa
 
-
